@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# React build
+frontend/build/
+frontend/node_modules/
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Local environment
+.env
+.env.local
+
+# Runtime data
+data/logs.json

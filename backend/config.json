@@ -1,0 +1,9 @@
+{
+  "file_high": 100,
+  "file_medium": 200,
+  "email_high": 50,
+  "email_medium": 70,
+  "odd_login_start": 22,
+  "odd_login_end": 6,
+  "usb_weight": 2
+}
