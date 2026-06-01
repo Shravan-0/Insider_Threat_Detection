@@ -1,0 +1,8 @@
+login_start: 9
+login_end: 18
+max_files_accessed: 50
+max_usb_usage: 0
+allowed_locations:
+  - India
+
+risk_threshold: 0.7
