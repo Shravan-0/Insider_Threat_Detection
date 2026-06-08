@@ -1,0 +1,351 @@
+employee_id,employee_name,department,login_hour,files_accessed,usb_usage,emails_sent,is_after_hours,is_foreign,high_file_access,high_email_activity
+EMP-0001,"Michael Chen","Operations",7,130,0,21,0,0,0,0
+EMP-0002,"Michael Kim","Sales",2,177,0,36,1,0,0,0
+EMP-0003,"Raj Martinez","Operations",20,42,0,5,0,0,0,0
+EMP-0004,"Harper Scott","Operations",9,43,0,11,0,0,0,0
+EMP-0005,"Sophia Chen","Legal",18,82,0,3,0,0,0,0
+EMP-0006,"Evelyn Anderson","Customer Success",7,155,0,37,0,0,0,0
+EMP-0007,"Ananya Singh","Information Technology",10,14,0,10,0,0,0,0
+EMP-0008,"Lucas Lewis","Engineering",0,298,0,73,1,0,0,0
+EMP-0009,"Arjun Nguyen","Legal",5,21,0,2,1,0,0,0
+EMP-0010,"Ananya Green","Information Technology",12,156,1,38,0,0,0,0
+EMP-0011,"David Nelson","Engineering",0,168,0,22,1,0,0,0
+EMP-0012,"Ashley Walker","Human Resources",7,70,1,4,0,0,0,0
+EMP-0013,"James Nelson","Engineering",3,61,0,4,1,0,0,0
+EMP-0014,"Mia Singh","Operations",15,159,0,26,0,0,0,0
+EMP-0015,"David Kim","Marketing",18,16,0,8,0,1,0,0
+EMP-0016,"Liam Lewis","Sales",1,185,0,24,1,0,0,0
+EMP-0017,"Ethan Moore","Marketing",20,58,0,5,0,0,0,0
+EMP-0018,"Ananya Adams","Information Technology",22,68,0,4,1,0,0,0
+EMP-0019,"Raj Green","Finance",5,16,0,6,1,0,0,0
+EMP-0020,"Daniel Garcia","Marketing",17,60,0,6,0,1,0,0
+EMP-0021,"Sophia Martinez","Customer Success",1,31,0,7,1,0,0,0
+EMP-0022,"Emma Jackson","Customer Success",4,170,0,24,1,0,0,0
+EMP-0023,"Daniel Patel","Information Technology",1,94,0,10,1,0,0,0
+EMP-0024,"Dev Nelson","Finance",11,97,0,0,0,0,0,0
+EMP-0025,"Jessica Walker","Human Resources",1,56,0,6,1,0,0,0
+EMP-0026,"Michael Clark","Information Technology",15,27,0,1,0,0,0,0
+EMP-0027,"Matthew Chen","Engineering",22,88,0,11,1,0,0,0
+EMP-0028,"Daniel Nguyen","Engineering",1,68,0,11,1,0,0,0
+EMP-0029,"Liam Lee","Operations",3,93,0,4,1,0,0,0
+EMP-0030,"Emily Garcia","Information Technology",7,13,0,3,0,0,0,0
+EMP-0031,"Ashley White","Human Resources",22,79,0,4,1,1,0,0
+EMP-0032,"Sophia Adams","Engineering",0,80,0,11,1,0,0,0
+EMP-0033,"Ashley Wilson","Marketing",10,44,0,10,0,0,0,0
+EMP-0034,"Dev Anderson","Human Resources",19,139,0,26,0,0,0,0
+EMP-0035,"Sophia Thomas","Customer Success",15,21,0,10,0,0,0,0
+EMP-0036,"Raj White","Information Technology",5,84,0,1,1,0,0,0
+EMP-0037,"Liam Adams","Information Technology",22,23,0,7,1,0,0,0
+EMP-0038,"Logan Moore","Information Technology",0,73,0,11,1,0,0,0
+EMP-0039,"Matthew Garcia","Human Resources",2,135,0,28,1,0,0,0
+EMP-0040,"Sarah Harris","Security Operations",10,40,0,4,0,0,0,0
+EMP-0041,"Dev Moore","Finance",17,83,0,10,0,0,0,0
+EMP-0042,"Arjun Allen","Sales",1,175,0,32,1,1,0,0
+EMP-0043,"Priya Nelson","Security Operations",16,90,0,4,0,0,0,0
+EMP-0044,"Harper King","Customer Success",19,126,0,16,0,0,0,0
+EMP-0045,"Arjun Taylor","Human Resources",10,21,0,7,0,0,0,0
+EMP-0046,"Dev Singh","Marketing",16,174,0,18,0,0,0,0
+EMP-0047,"Mia Nguyen","Finance",2,274,0,89,1,1,0,1
+EMP-0048,"Sarah Harris","Human Resources",6,190,0,25,1,0,0,0
+EMP-0049,"Noah Lewis","Operations",22,446,1,42,1,0,1,0
+EMP-0050,"Emily Wright","Legal",22,363,1,58,1,0,1,0
+EMP-0051,"Sarah Wilson","Finance",1,53,0,6,1,0,0,0
+EMP-0052,"Jennifer Clark","Information Technology",0,90,0,5,1,0,0,0
+EMP-0053,"Jessica Brown","Customer Success",21,185,1,23,0,0,0,0
+EMP-0054,"Ethan Moore","Sales",11,92,0,4,0,0,0,0
+EMP-0055,"Daniel King","Legal",3,281,0,94,1,0,0,1
+EMP-0056,"David Scott","Sales",19,157,0,15,0,0,0,0
+EMP-0057,"Emily King","Security Operations",17,34,0,7,0,0,0,0
+EMP-0058,"Lucas Wright","Information Technology",1,88,0,5,1,0,0,0
+EMP-0059,"Ananya Brown","Security Operations",23,263,1,96,1,1,0,1
+EMP-0060,"Jennifer Taylor","Legal",7,66,0,4,0,0,0,0
+EMP-0061,"Raj Singh","Marketing",19,52,0,0,0,0,0,0
+EMP-0062,"Raj Anderson","Sales",14,33,0,4,0,0,0,0
+EMP-0063,"Ashley Patel","Engineering",10,29,0,8,0,0,0,0
+EMP-0064,"Priya Adams","Legal",9,162,0,29,0,0,0,0
+EMP-0065,"Michael Anderson","Engineering",2,88,0,0,1,0,0,0
+EMP-0066,"Sarah Clark","Human Resources",13,98,0,9,0,0,0,0
+EMP-0067,"Ethan Taylor","Customer Success",4,40,1,6,1,0,0,0
+EMP-0068,"Ananya Clark","Sales",8,159,0,18,0,0,0,0
+EMP-0069,"Ethan Baker","Sales",1,17,1,5,1,0,0,0
+EMP-0070,"Olivia Martinez","Legal",10,192,0,32,0,0,0,0
+EMP-0071,"Ethan King","Finance",14,146,0,17,0,0,0,0
+EMP-0072,"James Taylor","Customer Success",13,91,0,11,0,0,0,0
+EMP-0073,"Ananya Walker","Information Technology",22,93,0,0,1,0,0,0
+EMP-0074,"Logan Kim","Security Operations",13,188,0,24,0,0,0,0
+EMP-0075,"Michael Chen","Operations",3,60,0,3,1,0,0,0
+EMP-0076,"Amelia Taylor","Information Technology",19,54,0,10,0,0,0,0
+EMP-0077,"Michael Wilson","Security Operations",20,63,0,7,0,0,0,0
+EMP-0078,"Amelia Garcia","Legal",3,61,0,3,1,0,0,0
+EMP-0079,"Jennifer Wright","Engineering",4,75,0,11,1,0,0,0
+EMP-0080,"Michael Adams","Engineering",13,10,0,5,0,0,0,0
+EMP-0081,"James Harris","Human Resources",8,82,0,11,0,0,0,0
+EMP-0082,"Raj Green","Customer Success",2,176,0,37,1,0,0,0
+EMP-0083,"Matthew Garcia","Human Resources",13,85,0,1,0,0,0,0
+EMP-0084,"Andrew King","Sales",1,298,0,85,1,1,0,1
+EMP-0085,"Matthew Clark","Information Technology",19,81,0,10,0,0,0,0
+EMP-0086,"Sophia Baker","Legal",9,44,0,3,0,0,0,0
+EMP-0087,"Olivia Nelson","Operations",5,18,0,11,1,0,0,0
+EMP-0088,"Michael Scott","Marketing",21,28,0,10,0,0,0,0
+EMP-0089,"Evelyn Adams","Sales",11,51,0,3,0,0,0,0
+EMP-0090,"Amelia Walker","Finance",16,196,0,15,0,0,0,0
+EMP-0091,"Mason Moore","Engineering",19,86,1,6,0,0,0,0
+EMP-0092,"Dev Nelson","Engineering",21,94,0,4,0,0,0,0
+EMP-0093,"Evelyn Clark","Operations",14,151,1,32,0,0,0,0
+EMP-0094,"Ananya Scott","Legal",16,129,0,19,0,0,0,0
+EMP-0095,"Mia King","Human Resources",10,70,0,10,0,0,0,0
+EMP-0096,"Ava Harris","Customer Success",6,150,0,39,1,0,0,0
+EMP-0097,"Ashley Taylor","Information Technology",9,11,0,4,0,0,0,0
+EMP-0098,"Priya Baker","Information Technology",13,184,0,33,0,0,0,0
+EMP-0099,"Arjun Hall","Operations",21,56,0,5,0,0,0,0
+EMP-0100,"Dev Green","Legal",12,121,0,34,0,0,0,0
+EMP-0101,"Jessica King","Marketing",21,91,0,9,0,0,0,0
+EMP-0102,"Ava Patel","Engineering",22,83,0,2,1,0,0,0
+EMP-0103,"Sophia Nelson","Marketing",8,173,0,34,0,1,0,0
+EMP-0104,"James Clark","Marketing",10,63,0,7,0,0,0,0
+EMP-0105,"Harper Scott","Finance",1,20,0,10,1,0,0,0
+EMP-0106,"Emma Patel","Operations",21,84,0,3,0,0,0,0
+EMP-0107,"Dev Baker","Marketing",8,132,0,26,0,0,0,0
+EMP-0108,"Evelyn Wright","Finance",22,282,0,42,1,1,0,0
+EMP-0109,"David Chen","Operations",3,322,1,47,1,0,1,0
+EMP-0110,"Priya Clark","Customer Success",14,180,0,33,0,0,0,0
+EMP-0111,"Michael Wilson","Finance",2,432,1,99,1,1,1,1
+EMP-0112,"Logan Taylor","Marketing",22,64,0,0,1,0,0,0
+EMP-0113,"Priya Baker","Finance",20,69,0,6,0,0,0,0
+EMP-0114,"Matthew Moore","Human Resources",11,55,0,6,0,0,0,0
+EMP-0115,"Daniel Walker","Finance",0,311,1,91,1,1,1,1
+EMP-0116,"Jennifer Scott","Security Operations",23,77,0,11,1,0,0,0
+EMP-0117,"Emily Wright","Operations",0,308,0,92,1,1,1,1
+EMP-0118,"Ava Brown","Marketing",14,53,0,9,0,0,0,0
+EMP-0119,"Michael Nguyen","Security Operations",2,67,0,6,1,0,0,0
+EMP-0120,"Emily Thomas","Legal",14,82,0,9,0,1,0,0
+EMP-0121,"Arjun Lee","Operations",6,154,0,36,1,0,0,0
+EMP-0122,"Mia Wright","Legal",2,80,0,0,1,0,0,0
+EMP-0123,"Ava Moore","Finance",23,15,0,2,1,0,0,0
+EMP-0124,"Evelyn Anderson","Human Resources",17,177,1,39,0,0,0,0
+EMP-0125,"Dev Lewis","Operations",23,32,0,3,1,0,0,0
+EMP-0126,"Mia Chen","Operations",9,24,0,1,0,0,0,0
+EMP-0127,"Jennifer Adams","Customer Success",23,50,0,5,1,0,0,0
+EMP-0128,"Jessica Wilson","Customer Success",3,15,1,6,1,0,0,0
+EMP-0129,"Dev Singh","Engineering",7,195,0,26,0,0,0,0
+EMP-0130,"Amelia Patel","Information Technology",12,150,0,28,0,0,0,0
+EMP-0131,"Ashley Wright","Engineering",3,95,0,2,1,0,0,0
+EMP-0132,"Arjun Anderson","Human Resources",19,18,0,5,0,0,0,0
+EMP-0133,"Raj Garcia","Legal",1,33,0,0,1,0,0,0
+EMP-0134,"Evelyn Adams","Operations",3,21,1,7,1,0,0,0
+EMP-0135,"Evelyn Young","Information Technology",4,56,0,3,1,0,0,0
+EMP-0136,"Mason Walker","Human Resources",0,349,1,67,1,0,1,0
+EMP-0137,"Ashley Thomas","Security Operations",18,150,0,20,0,0,0,0
+EMP-0138,"James Lewis","Human Resources",9,11,0,10,0,0,0,0
+EMP-0139,"Priya Scott","Information Technology",9,55,0,5,0,0,0,0
+EMP-0140,"Ashley Jackson","Operations",1,41,0,10,1,0,0,0
+EMP-0141,"Mason White","Finance",23,313,1,55,1,0,1,0
+EMP-0142,"Daniel Taylor","Customer Success",12,192,0,17,0,0,0,0
+EMP-0143,"Sarah Thomas","Customer Success",11,24,0,0,0,0,0,0
+EMP-0144,"Ethan Allen","Marketing",3,156,0,29,1,0,0,0
+EMP-0145,"Noah Young","Human Resources",9,17,0,1,0,0,0,0
+EMP-0146,"Michael Jackson","Human Resources",9,58,0,7,0,0,0,0
+EMP-0147,"Emily Patel","Finance",0,80,0,8,1,1,0,0
+EMP-0148,"Emily Patel","Security Operations",1,42,0,7,1,0,0,0
+EMP-0149,"Mia Brown","Operations",3,55,0,1,1,0,0,0
+EMP-0150,"Arjun Green","Engineering",23,56,0,8,1,0,0,0
+EMP-0151,"Sophia Kim","Customer Success",22,130,0,37,1,0,0,0
+EMP-0152,"Priya Singh","Operations",3,181,0,31,1,0,0,0
+EMP-0153,"Ananya Allen","Operations",2,63,0,0,1,0,0,0
+EMP-0154,"David Adams","Information Technology",5,52,0,5,1,0,0,0
+EMP-0155,"Emily Garcia","Customer Success",15,61,0,0,0,0,0,0
+EMP-0156,"Emily Chen","Legal",0,150,0,33,1,0,0,0
+EMP-0157,"Lucas Taylor","Engineering",22,311,1,81,1,1,1,1
+EMP-0158,"Daniel Young","Marketing",22,27,0,1,1,0,0,0
+EMP-0159,"Jennifer Wilson","Customer Success",6,166,0,32,1,0,0,0
+EMP-0160,"Noah White","Sales",1,86,0,2,1,0,0,0
+EMP-0161,"Raj Anderson","Legal",10,168,0,26,0,0,0,0
+EMP-0162,"Daniel Walker","Engineering",11,77,0,8,0,0,0,0
+EMP-0163,"Matthew Taylor","Marketing",1,86,0,11,1,0,0,0
+EMP-0164,"Emma Baker","Engineering",5,186,0,34,1,0,0,0
+EMP-0165,"Priya Wright","Finance",20,51,0,9,0,0,0,0
+EMP-0166,"Ananya Lewis","Security Operations",21,85,0,6,0,0,0,0
+EMP-0167,"David Clark","Marketing",12,174,0,39,0,0,0,0
+EMP-0168,"Liam Baker","Operations",8,33,0,9,0,0,0,0
+EMP-0169,"Noah Nelson","Customer Success",18,14,0,10,0,0,0,0
+EMP-0170,"Ashley Lewis","Sales",11,72,1,4,0,0,0,0
+EMP-0171,"Evelyn Jackson","Marketing",10,120,0,30,0,0,0,0
+EMP-0172,"Liam Adams","Engineering",17,84,1,3,0,0,0,0
+EMP-0173,"Noah Scott","Customer Success",20,95,0,8,0,0,0,0
+EMP-0174,"Jessica Brown","Customer Success",17,47,0,9,0,0,0,0
+EMP-0175,"Ashley Kim","Operations",2,26,0,1,1,0,0,0
+EMP-0176,"Dev Allen","Legal",18,97,1,10,0,0,0,0
+EMP-0177,"Logan Allen","Legal",15,85,0,3,0,0,0,0
+EMP-0178,"Emma Green","Information Technology",18,35,0,7,0,0,0,0
+EMP-0179,"Liam Patel","Security Operations",6,186,0,32,1,0,0,0
+EMP-0180,"Ethan Brown","Finance",1,194,0,25,1,1,0,0
+EMP-0181,"Andrew Hall","Customer Success",8,29,0,9,0,0,0,0
+EMP-0182,"Mason Singh","Customer Success",1,24,0,3,1,1,0,0
+EMP-0183,"James Nelson","Finance",10,197,0,31,0,0,0,0
+EMP-0184,"Ananya Hall","Customer Success",18,30,0,10,0,0,0,0
+EMP-0185,"Daniel Taylor","Customer Success",13,127,0,28,0,0,0,0
+EMP-0186,"Matthew Chen","Human Resources",14,147,0,32,0,0,0,0
+EMP-0187,"Jennifer Lewis","Finance",23,61,0,7,1,0,0,0
+EMP-0188,"Ethan Taylor","Legal",1,252,0,92,1,1,0,1
+EMP-0189,"Raj Green","Security Operations",23,98,0,5,1,0,0,0
+EMP-0190,"David Baker","Finance",15,170,0,28,0,0,0,0
+EMP-0191,"Ashley Kim","Marketing",22,50,0,4,1,0,0,0
+EMP-0192,"Olivia Singh","Finance",15,85,0,11,0,0,0,0
+EMP-0193,"Noah Patel","Information Technology",18,97,0,8,0,0,0,0
+EMP-0194,"Sarah Jackson","Customer Success",16,74,0,9,0,0,0,0
+EMP-0195,"Liam Thomas","Marketing",10,77,0,11,0,0,0,0
+EMP-0196,"Ananya Lewis","Finance",1,277,1,43,1,0,0,0
+EMP-0197,"Mia Allen","Sales",7,96,0,0,0,0,0,0
+EMP-0198,"Logan Singh","Sales",1,78,0,3,1,0,0,0
+EMP-0199,"Michael Martinez","Sales",0,29,0,3,1,0,0,0
+EMP-0200,"Emma Nelson","Security Operations",14,130,0,26,0,0,0,0
+EMP-0201,"Andrew Anderson","Information Technology",22,324,1,82,1,1,1,1
+EMP-0202,"Emma Green","Sales",20,76,0,6,0,0,0,0
+EMP-0203,"Priya Nelson","Marketing",5,44,0,4,1,0,0,0
+EMP-0204,"James Nelson","Legal",6,84,1,10,1,0,0,0
+EMP-0205,"Lucas Nguyen","Operations",7,49,0,7,0,0,0,0
+EMP-0206,"Harper Anderson","Finance",2,124,0,29,1,0,0,0
+EMP-0207,"Michael Anderson","Information Technology",13,76,0,4,0,1,0,0
+EMP-0208,"Mia Garcia","Human Resources",4,80,0,5,1,0,0,0
+EMP-0209,"Ashley Anderson","Legal",8,15,0,0,0,0,0,0
+EMP-0210,"Lucas Lewis","Information Technology",6,57,0,5,1,0,0,0
+EMP-0211,"Logan Kim","Sales",1,29,0,11,1,0,0,0
+EMP-0212,"Evelyn Wilson","Customer Success",9,191,0,21,0,0,0,0
+EMP-0213,"Michael White","Marketing",9,32,0,7,0,0,0,0
+EMP-0214,"Ava Garcia","Engineering",22,321,1,42,1,1,1,0
+EMP-0215,"Jessica Baker","Legal",11,46,0,8,0,0,0,0
+EMP-0216,"Andrew Moore","Finance",11,190,0,26,0,0,0,0
+EMP-0217,"Arjun Lewis","Operations",12,20,0,4,0,0,0,0
+EMP-0218,"Dev Clark","Legal",8,87,0,2,0,0,0,0
+EMP-0219,"Andrew Garcia","Information Technology",23,288,1,62,1,0,0,0
+EMP-0220,"Jessica Harris","Legal",19,154,0,36,0,0,0,0
+EMP-0221,"Emily Adams","Operations",6,56,0,8,1,0,0,0
+EMP-0222,"Liam Harris","Finance",11,51,0,1,0,0,0,0
+EMP-0223,"Emily Wilson","Legal",1,160,0,21,1,0,0,0
+EMP-0224,"Ethan Brown","Sales",16,36,0,11,0,0,0,0
+EMP-0225,"Arjun Jackson","Customer Success",21,60,0,10,0,0,0,0
+EMP-0226,"Raj Anderson","Operations",23,74,0,5,1,0,0,0
+EMP-0227,"Amelia Brown","Marketing",1,194,0,37,1,0,0,0
+EMP-0228,"David Walker","Legal",18,151,0,36,0,0,0,0
+EMP-0229,"Ava Brown","Legal",14,87,0,9,0,0,0,0
+EMP-0230,"Ananya Singh","Finance",9,39,0,2,0,0,0,0
+EMP-0231,"Evelyn Martinez","Legal",2,250,0,72,1,0,0,0
+EMP-0232,"Evelyn Thomas","Engineering",0,351,0,68,1,1,1,0
+EMP-0233,"Raj Scott","Human Resources",12,51,0,2,0,0,0,0
+EMP-0234,"Arjun Taylor","Operations",9,50,1,0,0,0,0,0
+EMP-0235,"Logan Lee","Security Operations",7,42,0,8,0,0,0,0
+EMP-0236,"Michael Taylor","Customer Success",23,15,0,10,1,0,0,0
+EMP-0237,"Ethan Patel","Human Resources",8,12,0,4,0,0,0,0
+EMP-0238,"Ava Wilson","Information Technology",16,57,0,0,0,0,0,0
+EMP-0239,"Ethan Wilson","Security Operations",1,302,1,65,1,0,1,0
+EMP-0240,"Emma Scott","Security Operations",13,31,0,1,0,0,0,0
+EMP-0241,"Ashley Green","Operations",14,42,0,4,0,0,0,0
+EMP-0242,"Andrew Lewis","Information Technology",2,257,1,44,1,1,0,0
+EMP-0243,"Logan Singh","Security Operations",12,21,0,11,0,0,0,0
+EMP-0244,"Mia Harris","Sales",20,62,0,2,0,0,0,0
+EMP-0245,"Mason Clark","Finance",9,16,0,4,0,0,0,0
+EMP-0246,"Ashley Thomas","Sales",14,65,0,2,0,0,0,0
+EMP-0247,"Michael Wright","Information Technology",23,51,0,8,1,0,0,0
+EMP-0248,"Evelyn King","Human Resources",23,193,0,16,1,0,0,0
+EMP-0249,"Priya Baker","Operations",11,17,0,5,0,0,0,0
+EMP-0250,"Dev Wilson","Operations",15,120,0,21,0,0,0,0
+EMP-0251,"Liam Nelson","Customer Success",0,39,0,0,1,0,0,0
+EMP-0252,"Daniel King","Engineering",10,171,0,33,0,0,0,0
+EMP-0253,"Logan Taylor","Marketing",21,68,0,10,0,0,0,0
+EMP-0254,"Jennifer Nguyen","Information Technology",1,46,1,11,1,0,0,0
+EMP-0255,"Noah Walker","Customer Success",9,185,0,25,0,0,0,0
+EMP-0256,"Daniel Kim","Marketing",5,29,0,7,1,0,0,0
+EMP-0257,"Jessica Jackson","Customer Success",23,26,0,0,1,0,0,0
+EMP-0258,"Jennifer Patel","Information Technology",0,27,0,4,1,1,0,0
+EMP-0259,"Ethan Kim","Marketing",23,60,0,9,1,0,0,0
+EMP-0260,"Logan Garcia","Legal",18,24,0,6,0,0,0,0
+EMP-0261,"James Thomas","Human Resources",8,64,0,6,0,0,0,0
+EMP-0262,"Sophia Allen","Legal",2,454,1,63,1,1,1,0
+EMP-0263,"Olivia Brown","Legal",5,50,0,0,1,0,0,0
+EMP-0264,"Andrew Kim","Security Operations",19,95,0,6,0,1,0,0
+EMP-0265,"Sophia Allen","Engineering",7,16,0,5,0,0,0,0
+EMP-0266,"Mia Green","Engineering",7,145,0,36,0,0,0,0
+EMP-0267,"Daniel Young","Information Technology",21,72,0,7,0,0,0,0
+EMP-0268,"Emma Young","Human Resources",4,153,0,34,1,0,0,0
+EMP-0269,"James Lee","Engineering",16,20,0,6,0,0,0,0
+EMP-0270,"Ethan Lewis","Operations",14,152,0,38,0,0,0,0
+EMP-0271,"Priya Lewis","Marketing",3,86,0,4,1,0,0,0
+EMP-0272,"David Moore","Finance",16,194,0,32,0,0,0,0
+EMP-0273,"David Nguyen","Engineering",6,198,1,32,1,0,0,0
+EMP-0274,"Harper Jackson","Information Technology",2,398,1,92,1,1,1,1
+EMP-0275,"Daniel Walker","Marketing",7,29,0,4,0,0,0,0
+EMP-0276,"David Clark","Operations",2,32,0,2,1,0,0,0
+EMP-0277,"Andrew Jackson","Operations",14,17,0,11,0,0,0,0
+EMP-0278,"Matthew Wilson","Engineering",15,68,0,4,0,0,0,0
+EMP-0279,"Matthew Jackson","Operations",23,50,0,0,1,0,0,0
+EMP-0280,"Jessica Harris","Engineering",6,37,1,7,1,0,0,0
+EMP-0281,"Noah Kim","Finance",3,96,0,1,1,0,0,0
+EMP-0282,"Noah Wright","Human Resources",22,379,1,62,1,1,1,0
+EMP-0283,"Raj Scott","Finance",18,15,1,0,0,0,0,0
+EMP-0284,"Dev King","Marketing",16,34,0,11,0,0,0,0
+EMP-0285,"Emily Harris","Marketing",22,93,0,4,1,0,0,0
+EMP-0286,"David Chen","Legal",0,266,1,41,1,1,0,0
+EMP-0287,"Dev Jackson","Marketing",9,171,0,31,0,0,0,0
+EMP-0288,"Ethan Wright","Information Technology",17,58,0,1,0,0,0,0
+EMP-0289,"Mia Adams","Security Operations",5,199,0,35,1,0,0,0
+EMP-0290,"Liam Martinez","Legal",1,154,0,31,1,0,0,0
+EMP-0291,"Raj Lee","Finance",5,32,0,3,1,0,0,0
+EMP-0292,"Ananya White","Marketing",16,173,1,33,0,0,0,0
+EMP-0293,"Olivia Harris","Marketing",2,71,0,4,1,0,0,0
+EMP-0294,"Jennifer Chen","Marketing",18,72,0,4,0,0,0,0
+EMP-0295,"Daniel Anderson","Sales",20,68,0,3,0,0,0,0
+EMP-0296,"Sophia Thomas","Sales",7,42,0,9,0,0,0,0
+EMP-0297,"Liam Lewis","Information Technology",18,23,0,9,0,0,0,0
+EMP-0298,"Ava White","Marketing",10,174,0,33,0,0,0,0
+EMP-0299,"James Hall","Customer Success",18,57,1,0,0,0,0,0
+EMP-0300,"Arjun Lee","Marketing",23,171,0,39,1,0,0,0
+EMP-0301,"Emily Adams","Sales",0,20,1,8,1,0,0,0
+EMP-0302,"Raj Clark","Operations",15,126,0,25,0,0,0,0
+EMP-0303,"Sarah Patel","Legal",15,81,0,3,0,0,0,0
+EMP-0304,"Lucas Allen","Engineering",6,60,0,10,1,0,0,0
+EMP-0305,"Jessica Nguyen","Human Resources",9,26,1,1,0,0,0,0
+EMP-0306,"Noah Wilson","Engineering",9,63,0,4,0,0,0,0
+EMP-0307,"Priya Young","Operations",23,291,0,69,1,0,0,0
+EMP-0308,"Logan Clark","Finance",18,167,0,38,0,0,0,0
+EMP-0309,"Amelia Chen","Security Operations",6,61,0,2,1,0,0,0
+EMP-0310,"Raj Kim","Customer Success",19,75,0,10,0,0,0,0
+EMP-0311,"Arjun Garcia","Operations",1,321,0,60,1,1,1,0
+EMP-0312,"Harper Adams","Engineering",2,83,0,4,1,0,0,0
+EMP-0313,"Sophia Taylor","Human Resources",22,194,0,24,1,0,0,0
+EMP-0314,"Noah Patel","Information Technology",2,196,0,39,1,0,0,0
+EMP-0315,"Evelyn Singh","Operations",14,39,0,8,0,0,0,0
+EMP-0316,"Mia Allen","Engineering",16,140,0,25,0,0,0,0
+EMP-0317,"Logan Harris","Information Technology",19,19,0,4,0,0,0,0
+EMP-0318,"James Brown","Engineering",12,48,1,8,0,0,0,0
+EMP-0319,"Matthew Singh","Security Operations",14,197,0,21,0,0,0,0
+EMP-0320,"Jennifer Allen","Marketing",16,27,0,2,0,0,0,0
+EMP-0321,"Logan Jackson","Sales",17,23,0,11,0,0,0,0
+EMP-0322,"Emma Lewis","Human Resources",14,19,0,11,0,0,0,0
+EMP-0323,"Michael Allen","Sales",1,300,1,65,1,0,0,0
+EMP-0324,"Liam Walker","Finance",6,79,1,2,1,0,0,0
+EMP-0325,"Olivia White","Sales",16,65,0,11,0,0,0,0
+EMP-0326,"Harper Wilson","Operations",19,99,0,8,0,0,0,0
+EMP-0327,"Mia Brown","Marketing",4,64,0,0,1,0,0,0
+EMP-0328,"Priya Garcia","Marketing",22,144,0,18,1,0,0,0
+EMP-0329,"Ethan Wilson","Customer Success",9,177,1,21,0,1,0,0
+EMP-0330,"Mason King","Engineering",4,71,0,8,1,0,0,0
+EMP-0331,"Harper Clark","Operations",12,120,0,31,0,0,0,0
+EMP-0332,"Matthew Lewis","Security Operations",11,41,0,4,0,0,0,0
+EMP-0333,"Mia Anderson","Customer Success",16,61,0,2,0,0,0,0
+EMP-0334,"Evelyn Allen","Customer Success",12,58,0,7,0,0,0,0
+EMP-0335,"Liam Singh","Human Resources",5,64,0,11,1,1,0,0
+EMP-0336,"Amelia Walker","Engineering",2,146,0,37,1,0,0,0
+EMP-0337,"Logan Adams","Human Resources",3,274,1,89,1,0,0,1
+EMP-0338,"James Lee","Customer Success",11,94,0,9,0,0,0,0
+EMP-0339,"Liam Harris","Operations",11,128,1,34,0,0,0,0
+EMP-0340,"Michael Hall","Operations",2,86,0,5,1,0,0,0
+EMP-0341,"Dev Moore","Sales",14,58,1,8,0,1,0,0
+EMP-0342,"Noah King","Information Technology",11,25,0,7,0,0,0,0
+EMP-0343,"Matthew Harris","Human Resources",22,354,0,67,1,1,1,0
+EMP-0344,"Jennifer Kim","Finance",15,188,0,19,0,0,0,0
+EMP-0345,"Ava Anderson","Finance",19,98,0,1,0,0,0,0
+EMP-0346,"Sarah Young","Information Technology",0,171,0,16,1,0,0,0
+EMP-0347,"Dev Allen","Marketing",3,325,0,88,1,0,1,1
+EMP-0348,"Dev Lee","Finance",20,52,0,6,0,0,0,0
+EMP-0349,"Emma Walker","Security Operations",0,63,1,11,1,0,0,0
+EMP-0350,"Evelyn Martinez","Information Technology",16,95,0,11,0,0,0,0
