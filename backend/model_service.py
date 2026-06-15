@@ -2,7 +2,10 @@ import joblib
 import pandas as pd
 
 
-model = joblib.load('../models/isolation_model.pkl')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "..", "models", "isolation_model.pkl")
+
+model = joblib.load(MODEL_PATH)
 
 def predict_risk(data):
     df = pd.DataFrame([data])

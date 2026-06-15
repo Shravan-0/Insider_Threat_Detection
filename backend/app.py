@@ -41,7 +41,10 @@ def update_config_route():
     return jsonify({"message": "Config updated", "config": config})
 
 # 🔥 LOAD MODEL ONCE
-model = joblib.load('../models/isolation_model.pkl')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "..", "models", "isolation_model.pkl")
+
+model = joblib.load(MODEL_PATH)
 
 
 # 🚀 MAIN ML API
@@ -100,11 +103,11 @@ def predict_batch():
             important_logs.append(res)
 
     # 🔥 SAVE LOGS SAFELY
-    file_path = "../data/logs.json"
+    LOG_FILE = os.path.join(BASE_DIR, "..", "data", "logs.json")
 
     try:
-        if os.path.exists(file_path):
-            with open(file_path, "r") as f:
+        if os.path.exists(LOG_FILE):
+            with open(LOG_FILE, "r") as f:
                 existing = json.load(f)
         else:
             existing = []
@@ -118,7 +121,7 @@ def predict_batch():
     if len(existing) > MAX_LOGS:
         existing = existing[-MAX_LOGS:]
 
-    with open(file_path, "w") as f:
+    with open(LOG_FILE, "w") as f:
         json.dump(existing, f, indent=2)
 
     return jsonify(results)
@@ -127,13 +130,13 @@ def predict_batch():
 # 📜 LOGS API (FIXED)
 @app.route('/logs', methods=['GET'])
 def get_logs():
-    file_path = "../data/logs.json"
+    LOG_FILE = os.path.join(BASE_DIR, "..", "data", "logs.json")
 
-    if not os.path.exists(file_path):
+    if not os.path.exists(LOG_FILE):
         return jsonify([])
 
     try:
-        with open(file_path, "r") as f:
+        with open(LOG_FILE, "r") as f:
             existing = json.load(f)
     except:
         existing = []
@@ -142,5 +145,6 @@ def get_logs():
 
 
 # 🚀 RUN SERVER
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
