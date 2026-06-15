@@ -4,7 +4,24 @@
 
 Watch the complete project demonstration:
 
-**https://www.loom.com/share/e6da3b8d8e4e466fa41828006ab95b79**
+https://www.loom.com/share/e6da3b8d8e4e466fa41828006ab95b79
+
+---
+
+## Live Deployment
+
+### Frontend (Vercel)
+
+https://insider-threat-detection-pearl.vercel.app
+
+### Backend API (Render)
+
+https://insider-threat-detection-1-1nuc.onrender.com
+
+### Health Check
+
+https://insider-threat-detection-1-1nuc.onrender.com/health
+
 
 ---
 
