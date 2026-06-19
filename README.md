@@ -305,6 +305,4 @@ This project is licensed under the MIT License.
 
 **Shravan Kumar**
 
-Cybersecurity | Machine Learning 
-
 GitHub: https://github.com/Shravan-0
